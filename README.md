@@ -1,1 +1,1 @@
-# arth
+# Simple arithematic interpreter using C++
